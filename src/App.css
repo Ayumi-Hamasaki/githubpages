@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.my_scroll>div:nth-child(3)>div{
+  background-color: red !important;
+}
+
+.my_scroll_>div:nth-child(3)>div{
+  display: none !important;
+}
